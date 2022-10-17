@@ -1,0 +1,26 @@
+{
+    "id": "F7170078",
+    "path": "~/GitHub/epichecks/R/thresholds.R",
+    "project_path": "R/thresholds.R",
+    "type": "r_source",
+    "hash": "3623157184",
+    "contents": "",
+    "dirty": false,
+    "created": 1665994534924.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,42",
+        "scrollLine": "34"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1665996007,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1665996007399,
+    "read_only": false,
+    "read_only_alternatives": []
+}
